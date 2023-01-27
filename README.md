@@ -1,4 +1,4 @@
-### Olá, sou uma estudante em programação! 👋
+### Olá, sou uma iniciante em programação! 👋
 
 <!--
 **EvelineAguiar/EvelineAguiar**:
